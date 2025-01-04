@@ -1,0 +1,27 @@
+﻿njar - New Java File 0.01
+
+Licencse
+
+This program is distributed for free of charge. You can use this program on any number of computers. If you find this program useful, please write an e-mail to me. You're hereby granted the lincese to study this program or use it for academic and personal purposes. Any kind of profit not returend or resell is strictly prohibited.
+
+Author	: Ammar Bin Mahmud Prottoy
+Date		: 07 July, 2022
+E-mail	: mistblur@outlook.com
+
+Usage
+
+njar saves your time by automatically creating a class file for you. 
+
+Anywhere on Windows Explorer open your Command Prompt. Then type:
+
+njar <ClassName>
+
+This will create a Java source file with the given class name.The new source file will be automatically populated with the class name. After successfully creating the file njar will open the file for you in your default source code editor for Java. If a file with the same name already exists on the directory njar will open that file for you without any overwriting.
+
+Java Class Name logics are applied here. Do not use spaces. If a class name contains spaces only the first section is accepted and rest are discarded.
+
+If you have any suggestions or bug report please send an e-mail.
+
+
+© 2022 ABM Labs all rights reserved.
+
